@@ -4,4 +4,4 @@
 
 # CONTAINER
 
-* docker run -it --puplish 7000:4000 flaskapp 
+* docker run -it --publish 7000:4000 flaskapp 
